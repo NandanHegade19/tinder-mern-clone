@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #f9f9f9;
+    z-index: 10;
+    
+}
+
+.tinderlogo{
+    object-fit: contain;
+    height: 40px;
+}
+
+.icon{
+    padding: 20px;
+}

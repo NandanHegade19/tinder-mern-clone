@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(245, 247, 250);
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    max-height: 700px;
+    margin: 5% 35%;
+}
